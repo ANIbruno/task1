@@ -4483,6 +4483,7 @@ ID	Year_Birth	Education	Marital_Status	Income	Kid_home	Teen_home	Date_Customer	R
 
 
 
-this is the initial dataset downlaoded from kagel 
+this is little bit alter  dataset  which i did after downlaoded from kagel .i forgot to take screenshot orginal which was full
+of errors like cell headers were all together in same line and data under it was not under sutitable column a 
 so after downlaod i select entire data set and go to top menu and choose text to column and check the delimeter and choose in which parameter u want to seperate them sp i choose here tab thn click next and done. 
 so thn it gave correct data .
